@@ -1,0 +1,14 @@
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\BankEncap\obj\Debug\netcoreapp3.1\BankEncap.csproj.AssemblyReference.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\BankEncap\obj\Debug\netcoreapp3.1\BankEncap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\BankEncap\obj\Debug\netcoreapp3.1\BankEncap.AssemblyInfoInputs.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\BankEncap\obj\Debug\netcoreapp3.1\BankEncap.AssemblyInfo.cs
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\BankEncap\obj\Debug\netcoreapp3.1\BankEncap.csproj.CoreCompileInputs.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\BankEncap\bin\Debug\netcoreapp3.1\BankEncap.exe
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\BankEncap\bin\Debug\netcoreapp3.1\BankEncap.deps.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\BankEncap\bin\Debug\netcoreapp3.1\BankEncap.runtimeconfig.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\BankEncap\bin\Debug\netcoreapp3.1\BankEncap.runtimeconfig.dev.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\BankEncap\bin\Debug\netcoreapp3.1\BankEncap.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\BankEncap\bin\Debug\netcoreapp3.1\BankEncap.pdb
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\BankEncap\obj\Debug\netcoreapp3.1\BankEncap.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\BankEncap\obj\Debug\netcoreapp3.1\BankEncap.pdb
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\BankEncap\obj\Debug\netcoreapp3.1\BankEncap.genruntimeconfig.cache
